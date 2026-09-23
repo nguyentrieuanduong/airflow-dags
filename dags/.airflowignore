@@ -1,0 +1,7 @@
+.*__pycache__.*
+^airflow_dags/common/.*
+^airflow_dags/operators/.*
+^airflow_dags/sensors/.*
+^airflow_dags/triggers/.*
+.*/sql/.*
+.*/tests?/.*
